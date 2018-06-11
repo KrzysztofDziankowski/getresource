@@ -1,0 +1,1 @@
+main/dirInBothMainAndTest: fileInBothMainAndTest.txt
